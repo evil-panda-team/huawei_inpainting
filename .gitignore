@@ -1,0 +1,15 @@
+dataset/
+results/
+result2/
+preds/
+preds_generative_inpainting/
+neuralgym_logs/
+dfnet_test_images/
+generative_inpainting/
+*.DS_Store*
+edge-connect/
+output/
+output/*
+noise2noise/
+test_final_masks/
+.fuse*
